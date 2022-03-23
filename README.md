@@ -1,5 +1,7 @@
 # Hi there, I'm Daniel 👋
 
+![I am a Full Stack Developer](./assets/banner.png)
+
 ## Connect with me:
 
 <a href="https://www.google.com" target="_blank" style="text-decoration:none">
@@ -36,3 +38,11 @@
 <br />
 
 ---
+
+## Github Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielarzani)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielarzani&show_icons=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danielarzani)
