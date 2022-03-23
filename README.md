@@ -2,6 +2,10 @@
 
 ![I am a Full Stack Developer](./assets/banner.png)
 
+## About Me
+
+A full stack developer who's always looking to learn new things
+
 ## Connect with me:
 
 <a href="https://www.google.com" target="_blank" style="text-decoration:none">
@@ -44,5 +48,3 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=danielarzani)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danielarzani&show_icons=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=danielarzani)
