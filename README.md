@@ -14,6 +14,8 @@ A personal website that will have everything I would want it to have
 - _No more needing to subscribe to sites or news letter for particular things_
 - _No more needing to use an app in order to manage my schedule or to keep track of tasks/notes_
 
+Learning TypeScript
+
 ## Connect with me:
 
 <a href="https://www.google.com" target="_blank" style="text-decoration:none">
