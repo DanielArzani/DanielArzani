@@ -8,11 +8,7 @@ A full stack developer who's always looking to learn new things
 
 ## What I'm currently working on
 
-A personal website that will have everything I would want it to have
-
-- _No more having to look at Google's homepage_
-- _No more needing to subscribe to sites or news letter for particular things_
-- _No more needing to use an app in order to manage my schedule or to keep track of tasks/notes_
+A personal website that will have everything I would want it to have and I'll use it instead of google's homepage!
 
 Learning TypeScript
 
