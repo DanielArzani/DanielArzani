@@ -8,13 +8,11 @@ A full stack developer who's always looking to learn new things
 
 ## What I'm currently working on
 
-A personal website that will have everything I would want it to have and I'll use it instead of google's homepage!
-
 Learning TypeScript
 
 ## Connect with me:
 
-<a href="https://www.google.com" target="_blank" style="text-decoration:none">
+<a href="https://www.linkedin.com/in/daniel-arzanipour" target="_blank" style="text-decoration:none">
 <img height="32" width="32" src="./assets/linkedin.svg"/>
 </a>
 
