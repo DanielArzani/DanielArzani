@@ -10,6 +10,8 @@ A full stack developer who's always looking to learn new things
 
 Learning TypeScript
 
+A personal project for my own use (but I'll still put it up on github and create a live version for anyone else to use too)
+
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/daniel-arzanipour" target="_blank" style="text-decoration:none">
