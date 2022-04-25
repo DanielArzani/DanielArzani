@@ -8,7 +8,7 @@ A full stack developer who's always looking to learn new things
 
 ## What I'm currently working on
 
-Learning TypeScript
+Learning Shopify
 
 A personal project for my own use (but I'll still put it up on github and host a live version for anyone else to use too)
 
