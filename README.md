@@ -10,7 +10,7 @@ A full stack developer who's always looking to learn new things
 
 Learning Shopify
 
-Gaining experience with clients on upwork
+Trying to gain experience by finding clients on upwork
 
 A personal project for my own use (but I'll still put it up on github and host a live version for anyone else to use too)
 
