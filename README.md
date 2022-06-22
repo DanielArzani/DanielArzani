@@ -6,13 +6,12 @@
 
 ## 🔭 I’m Currently Working on:
 
-- Creating Shopify Stores
+- Creating Shopify Stores and Themes
 - Frontend Mentor Projects
 
 ## 🌱 I’m Currently Learning:
 
-- How to create my own Shopify Theme (I know that they give the dawn theme as a
-- reference but I would like to be able to build my own from scratch)
+- Angular in my free time
 
 ## ⚡️ Fun Fact:
 
