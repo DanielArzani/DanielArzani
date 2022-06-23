@@ -18,6 +18,10 @@
 - When you purchase packaged lettuce, you’re usually paying around 2.5x the price for 1/4
   the amount of lettuce you would get if you bought it raw. (If you want more lettuce for less,
   you know what to do now)
+  
+## 🏬 Organizations 
+
+- My frontend Mentor Projects have been put in a separate organization (to try and keep things organized), you can find them by clicking [here](https://github.com/Frontend-Mentor-Projects-Daniel)
 
 ## 🌐Socials
 
