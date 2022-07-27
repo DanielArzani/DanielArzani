@@ -11,7 +11,7 @@
 
 ## 🌱 I’m Currently Learning:
 
-- Angular in my free time
+- Python and some bash scripting in my free time
 
 ## ⚡️ Fun Fact:
 
