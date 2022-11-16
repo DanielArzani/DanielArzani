@@ -24,6 +24,8 @@ What about now? As I move through these projects, I've made a small checklist ab
 
 - [Frontend Mentor](https://www.frontendmentor.io/home) Projects
 
+- I've stored most of my projects in a separate [organization](https://github.com/Frontend-Mentor-Projects-Daniel), though for some of the projects that I would like to use myself such as the markdown editor, I will keep on this account
+
 ### 🌱 I’m Currently Learning
 
 - Accessibility and inclusive design
