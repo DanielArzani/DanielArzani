@@ -1,6 +1,6 @@
 # Hi there, I'm Daniel 👋
 
-![Banner](./assets/banner.png)
+![Banner](./akeyssets/banner.png)
 
 ## 💫About Me
 
