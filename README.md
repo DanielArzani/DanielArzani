@@ -4,21 +4,11 @@
 
 ## 💫About Me
 
-I originally took a Udemy course to see if I liked Web Development - and well, I did!
+I am a highly motivated front-end web developer with a strong emphasis on accessibility. With over 800 commits to GitHub in the past year, I am dedicated to coding for 10 hours a day, 5 days a week.
 
-I went for a full stack bootcamp as the next thing I did. This might hold true for most bootcamps but they ended up focusing mostly on the server side.
+ I am proficient in HTML, CSS, JavaScript/TypeScript, React, SASS, and familiar with full-stack development and command line tools. I have experience in developing accessible HTML through various technologies and feedback from other developers, and expertise in creating scalable, well-organized, and clean CSS using the CUBE methodology and BEM naming convention. 
 
-I realized this acutely when I still had trouble with the frontend even after my 6 months were over.
-
-What did I do then? I signed up for frontend mentor and began practising using the foundational technologies of HTML, CSS and Javascript.
-
-I signed up for a pro-subscription in order to receive the design files for the projects and as I built more and more I could see how deep the frontend was, as I submitted my work for peer review and was told over and over again about how accessibility is what ties the 3 technologies together I saw my entire way of coding changing.
-
-I learned exactly which professionals' works I should read and what each component required in order to meet WCAG 2.1 standards.
-
-I went from there to using SASS and CUBE CSS methodology, using either typescript or JSdocs + VS code's build-in typechecker for type-checking and after that testing, simply so I could improve my understanding of programming (and of course for the safety they provide)
-
-What about now? As I move through these projects, I've made a small checklist about what technologies to use for them, because in the end these are all tools and the right tool should be used for the right job.
+I am always looking to improve my skills and am dedicated to staying up to date with the latest technologies and best practices in the industry.
 
 ### 🔭 I’m Currently Working on
 
@@ -29,9 +19,7 @@ What about now? As I move through these projects, I've made a small checklist ab
 ### 🌱 I’m Currently Learning
 
 - Accessibility and inclusive design
-- JSDocs
-- Typescript
-- Testing with Vitest
+- Elm (a functional programming language that compiles to Javascript)
 
 ### ⚡️ Fun Fact
 
