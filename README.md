@@ -4,9 +4,9 @@
 
 ## 💫About Me
 
-I am a highly motivated front-end web developer with a strong emphasis on accessibility. With over 800 commits to GitHub in the past year, I am dedicated to coding for 10 hours a day, 5 days a week.
+As a front-end web developer, I am passionate about creating accessible and user-friendly web experiences. With a solid understanding of HTML, CSS, JavaScript/TypeScript, React, and SASS, I am well-equipped to handle a variety of web development projects. 
 
- I am proficient in HTML, CSS, JavaScript/TypeScript, React, SASS, and familiar with full-stack development and command line tools. I have experience in developing accessible HTML through various technologies and feedback from other developers, and expertise in creating scalable, well-organized, and clean CSS using the CUBE methodology and BEM naming convention. 
+Over the past year, I have made over 800 commits to GitHub and consistently commit 8 hours a day, 5 days a week to coding. I possess expertise in creating scalable, well-organized, and clean CSS using the CUBE methodology and BEM naming convention, and have experience in developing accessible HTML through various technologies and feedback from other developers. In addition, I am familiar with full-stack development and command line tools. I am committed to staying up-to-date with the latest technologies and best practices in the industry, and am always looking for ways to improve my skills. 
 
 I am always looking to improve my skills and am dedicated to staying up to date with the latest technologies and best practices in the industry.
 
@@ -19,7 +19,7 @@ I am always looking to improve my skills and am dedicated to staying up to date 
 ### 🌱 I’m Currently Learning
 
 - Accessibility and inclusive design
-- Elm (a functional programming language that compiles to Javascript)
+- Josh Comeau's Joy of React course
 
 ### ⚡️ Fun Fact
 
